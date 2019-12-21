@@ -1,5 +1,8 @@
 # Use ultrasonic sensors and a windshieldwiper motor to automatically open and close a door. 
 
+[![Demo](https://img.youtube.com/vi/A_yJqOZcIQ0/0.jpg)](https://www.youtube.com/watch?v=A_yJqOZcIQ0)
+
+
 ## Instructions
 https://www.instructables.com/id/Make-a-Automatic-Self-Sensing-Opening-and-Closing-/
 
